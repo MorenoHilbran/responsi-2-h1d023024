@@ -9,8 +9,7 @@
 ---
 
 ## 📱 Demo Aplikasi
-
-
+[iPhone-13-PRO-localhost-nc-7uvax-vnssm.webm](https://github.com/user-attachments/assets/822facd6-730b-45f6-b59c-229daf7de891)
 
 *Video demo menampilkan fitur-fitur utama aplikasi: Login, Register, CRUD Inventaris Bahan Makanan*
 
